@@ -25,6 +25,18 @@ git push
 
 
 
+#	other commands
+git rm XXXXX
+git commit -m "Remmove XXXX"
+git push
+
+
+
+
+
+
+
+
 
 
 
